@@ -109,8 +109,6 @@ Both GUIs provide a canvas for drawing and buttons to predict or clear. The word
 ![Word recognizer placeholder](assets/screenshots/word_recognizer_placeholder_1.png)
 ![Word recognizer placeholder](assets/screenshots/word_recognizer_placeholder_2.png)
 
-Replace the placeholders above with real screenshots for your portfolio submission.
-
 ## 🧪 Fine-tuning / Training
 
 A minimal fine-tuning flow is provided in `src/custom_finetune.py`. Typical steps:
