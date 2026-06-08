@@ -130,11 +130,6 @@ python src/custom_finetune.py --data_dir data/custom_letters --output models/emn
 - Autocorrect relies on a dictionary in `dictionary/` and Levenshtein distance; it uses character confidence to broaden or narrow the candidate set.
 - Model artifacts (large `.keras` files) are not recommended for direct git tracking; consider using Git LFS or releases.
 
-## ♻️ Limitations & Honesty
-
-- This is a student project and a proof-of-concept. Do not interpret the results as production-grade OCR.
-- The system is not claimed to be state-of-the-art. Performance depends on handwriting quality, segmentation accuracy, and dictionary coverage.
-
 ## 🔮 Future improvements
 
 - Sentence recognition (language-model integration)
@@ -143,19 +138,3 @@ python src/custom_finetune.py --data_dir data/custom_letters --output models/emn
 - Improved segmentation (learned instance segmentation)
 - Advanced confidence scoring and uncertainty estimation
 - Document / page OCR support
-
-## 🧾 Contribution & License
-
-If you use or extend this code, please add issues or pull requests. This project is suitable for learning and internship demonstration. Include a brief note or citation if you use it in reports or presentations.
-
-Licensed under MIT — see `LICENSE`.
-
----
-
-If you'd like, I can also:
-
-- Add example screenshots to `assets/screenshots/` and update the README links.
-- Generate a `requirements.txt` from the environment.
-- Add a short demo GIF and a one-page report for your internship submission.
-
-Would you like me to add any of those next?
