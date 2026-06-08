@@ -104,10 +104,10 @@ Both GUIs provide a canvas for drawing and buttons to predict or clear. The word
 
 ## 🔍 Example outputs
 
-Screenshots (add images to `assets/screenshots/` and update links):
-
-![Word recognizer placeholder](assets/screenshots/word_recognizer_placeholder.png)
-![Digit recognizer placeholder](assets/screenshots/digit_recognizer_placeholder.png)
+![Digit recognizer placeholder](assets/screenshots/digit_recognizer_placeholder_1.png)
+![Digit recognizer placeholder](assets/screenshots/digit_recognizer_placeholder_2.png)
+![Word recognizer placeholder](assets/screenshots/word_recognizer_placeholder_1.png)
+![Word recognizer placeholder](assets/screenshots/word_recognizer_placeholder_2.png)
 
 Replace the placeholders above with real screenshots for your portfolio submission.
 
