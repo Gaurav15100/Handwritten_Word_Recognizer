@@ -136,8 +136,3 @@ python src/custom_finetune.py --data_dir data/custom_letters --output models/emn
 - Improved segmentation (learned instance segmentation)
 - Advanced confidence scoring and uncertainty estimation
 - Document / page OCR support
-
-## 📜 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for the full text and permissions.
-
